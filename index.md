@@ -17,7 +17,7 @@ if (theresAnyDoubt() || youGotACoolJobProposalForMe()){
       contactMe("j.chavezlavalle@gmail.com");
     } 
     catch(Exception e){
-      findMeAlsoOnLinkedIn( myLinkedInUrl [https://www.linkedin.com/in/joanachavez/]);
+      findMeAlsoOnLinkedIn([https://www.linkedin.com/in/joanachavez/]);
     }  
 }
 
