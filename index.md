@@ -14,10 +14,10 @@ private void contactMe(String email){
 
 if (theresAnyDoubt() || youGotACoolJobProposalForMe()){
     try{
-      contactMe("jchavezlavalle@gmail.com");
+      contactMe("j.chavezlavalle@gmail.com");
     } 
     catch(Exception e){
-      findMeAlsoOnLinkedIn();
+      findMeAlsoOnLinkedIn( myLinkedInUrl [https://www.linkedin.com/in/joanachavez/]);
     }  
 }
 
