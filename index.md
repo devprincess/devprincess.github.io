@@ -1,37 +1,26 @@
-## Welcome to my Github account
+## Joana Chavez
 
-You can use the [editor on GitHub](https://github.com/devprincess/devprincess.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello world and welcome to my repo, here I briefly describe in a general idea all the projects I have been working on or collaborating.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Stuff I'm interested into:
 
-### Markdown
+Bioinformatics, Mobile development (Android mostly even though I developed an app for Blackberry when it was cool), Programming (C/C++, Java, Python, Akka, Scala, Go) and also another cool stuff like: SQL (and all its friends: SQLite, MySQL, PostreSQL), MongoDB, Docker, (Now currently learning Singularity) and also another stuff for networking like: ContikiOS and Cooja, Erbium and CoAP. We can grab a coffee and keep on talking about all the cool stuff I have done also during my courses in my Master's degree or at work. Another thing, I do not have time to renew licenses and I avoid hard to use interfaces, I believe in the KISS movement. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+private void contactMe(String email){
+  sendEmailTo(email);
+}
 
-# Header 1
-## Header 2
-### Header 3
+if (theresAnyDoubt() || youGotACoolJobProposalForMe()){
+    try{
+      contactMe("jchavezlavalle@gmail.com");
+    } 
+    catch(Exception e){
+      findMeAlsoOnLinkedIn();
+    }  
+}
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devprincess/devprincess.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Almost forgot.. I also speak Spanish since I am from Peru, English is my second language and I am currently finishing my studies in Italian. Arrivederci!
